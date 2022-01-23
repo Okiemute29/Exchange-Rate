@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+}
+input, select{
+  width: 250px;
+  height: 30px;
+  border: 1px solid lightblue;
+  outline: none;
+}
+
+select{
+  width: 100px;
+  margin-left: 10px;
+}
+span{
+  color: red;
+  font-size: 2rem;
+  font-weight: 900;
+}
